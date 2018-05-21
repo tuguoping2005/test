@@ -1,4 +1,5 @@
 Today i eat many fruit!include apple
 fix bug
 fix bug2
+fix bug3
 
